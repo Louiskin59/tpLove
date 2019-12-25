@@ -1717,7 +1717,7 @@ class FirePHP {
      * This feature can also be found in  Python. JSON is a text format that is
      * completely language independent but uses conventions that are familiar
      * to programmers of the C-family of languages, including C, C++, C#, Java,
-     * JavaScript, Perl, TCL, and many others. These properties make JSON an
+     * JavaScript, Perl, TCL, and many 其他. These properties make JSON an
      * ideal data-interchange language.
      *
      * This package provides a simple encoder and decoder for JSON notation. It
